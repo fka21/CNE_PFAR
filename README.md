@@ -11,9 +11,6 @@ The aim of the project is to find conserved non-coding elements (CNE) in the _M.
 
 `misc/` - contains ancilliary files for the analysis.
 
-`annoforge/` - contains the AnnotationForge package constructed from the _M.opercularis_ genome.
-
-
 ### Order of scripts
 
 1. OrthoFinder2 was used to generate the species tree:
